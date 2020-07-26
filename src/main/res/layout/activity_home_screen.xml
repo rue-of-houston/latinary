@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent" android:layout_height="match_parent" android:id="@+id/drawer"
+    android:background="#3A1772">
+
+<LinearLayout android:orientation="vertical" android:layout_width ="match_parent"
+    android:layout_height ="match_parent" android:fitsSystemWindows="true">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#C8AD55"
+        android:theme="@style/AppBaseTheme">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/app_name"
+                android:textColor="#470024"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="3dip"/>
+
+            <SearchView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="3dip"
+                android:id="@+id/searchView" android:textAlignment="center" android:queryHint="@string/query_hint"
+                android:searchIcon="@drawable/ic_search_outlined_magnifier"></SearchView>
+
+        </LinearLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent"
+        android:fillViewport="true" android:background="@android:color/transparent" android:layout_marginTop="35dip">
+
+        <LinearLayout android:orientation="vertical" android:layout_width ="match_parent" android:layout_height ="match_parent" android:background="@drawable/rounded"
+            android:padding="10dip">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <ImageButton
+                    android:id="@+id/speechBtn"
+                    android:layout_width="32dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_speaker"
+                    android:background="@drawable/rounded_speaker_bg"
+                    android:layout_weight="0.5"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="5dip"
+                    android:layout_marginLeft="5dip"
+                    android:visibility="invisible"/>
+
+                <TextView android:id="@+id/titleView" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="#D8DBE2"
+                    android:layout_marginBottom="5dip" android:padding="5dip" android:textSize ="35sp" android:minHeight="40dip" android:layout_weight="1.25"/>
+
+            </LinearLayout>
+
+            <TextView android:id="@+id/descriptionView" android:layout_width="match_parent" android:layout_height="wrap_content" android:textColor="#D8DBE2"
+                android:layout_marginBottom="5dip" android:padding="15dip" android:minHeight="350dip" android:textSize ="20sp" android:layout_marginLeft="10dip"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
+
+
+
+<ListView android:id="@+id/drawerList" android:layout_width="150dip" android:layout_height="match_parent"
+    android:layout_gravity="start" android:divider="#C8AD55" android:dividerHeight="1dip" android:background="#000505"/>
+
+</android.support.v4.widget.DrawerLayout>

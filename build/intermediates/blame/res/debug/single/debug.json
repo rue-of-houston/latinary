@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/menu_home_screen.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/menu/home_screen.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable_profile_pic_bg.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable/profile_pic_bg.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/layout_drawer_list.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/layout/drawer_list.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable-xxhdpi_rounded_speaker_bg.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable-xxhdpi/rounded_speaker_bg.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable-mdpi_dev_photo.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable-mdpi/dev_photo.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/layout_header.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/layout/header.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable-hdpi_gradient.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable-hdpi/gradient.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable-mdpi_latinary.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable-mdpi/latinary.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/layout_activity_about_screen.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/layout/activity_about_screen.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable_ic_linkedin.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable/ic_linkedin.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable_ic_speaker.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable/ic_speaker.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable-mdpi_rounded.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable-mdpi/rounded.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/layout_activity_home_screen.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/drawable_ic_search_outlined_magnifier.xml.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/drawable/ic_search_outlined_magnifier.xml"
+    },
+    {
+        "merged": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

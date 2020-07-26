@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ameivasoft.latinary"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:7:5-17
+8        android:minSdkVersion="21"
+8-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:7:5-17
+9        android:targetSdkVersion="28" />
+9-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:7:5-17
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:8:5-66
+11-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:8:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:9:5-78
+12-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:10:5-80
+13-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:10:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:11:5-79
+14-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:11:22-77
+15
+16    <application
+16-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:13:5-33:19
+17        android:allowBackup="true"
+17-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:14:9-35
+18        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+18-->[com.android.support:support-compat:28.0.0] /Users/Rue/.gradle/caches/transforms-2/files-2.1/4e7b3bbed8e6e29e2ba6d4fc6e8eccff/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+19        android:debuggable="true"
+20        android:icon="@mipmap/ic_launcher"
+20-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:15:9-43
+21        android:label="@string/app_name"
+21-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:16:9-41
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:17:9-40
+24        <activity
+24-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:18:9-27:20
+25            android:name="com.ameivasoft.latinary.HomeScreen"
+25-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:19:13-39
+26            android:label="@string/app_name"
+26-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:20:13-45
+27            android:screenOrientation="portrait" >
+27-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:21:13-49
+28            <intent-filter>
+28-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:22:13-26:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:23:17-69
+29-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:25:17-77
+31-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:25:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:28:9-31:20
+35            android:name="com.ameivasoft.latinary.AboutScreen"
+35-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:28:19-46
+36            android:label="@string/app_name"
+36-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:29:13-45
+37            android:screenOrientation="portrait" >
+37-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:30:13-49
+38        </activity>
+39
+40        <service android:name="com.ameivasoft.latinary.Webservice" />
+40-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:32:9-78
+40-->/Users/Rue/AndroidStudioProjects/Latinary/latinary/src/main/AndroidManifest.xml:32:18-67
+41    </application>
+42
+43</manifest>

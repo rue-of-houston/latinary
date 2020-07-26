@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Latinary</string>
+    <string name="action_about">About</string>
+    <string name="query_hint">Search a term</string>
+    <string name="app_loading">Loading..</string>
+    <string name="app_configuring">Configuring application.</string>
+    <string name="query_failed">No match found.</string>
+    <string name="file_name">lexicon.dat</string>
+    <string name="runKey">firstRun</string>
+    <string name="setup_failed">Setup failed. Closing..</string>
+    <string name="data_invalid">Invalid data returned. Closing..</string>
+    <string name="request_failed">Web request failed. Closing..</string>
+    <string name="request_null">Null web request. Closing..</string>
+    <string name="request_url">http://ameivasoft.com/api/access/app/latinary/data.php5</string>
+    <string name="urlKey">url</string>
+    <string name="messengerKey">messenger</string>
+    <string name="requestKey">requestCode</string>
+    <string name="network_err">A network connection is required for setup.</string>
+    <string name="author">Rueben Anderson</string>
+    <string name="description">Hello and thank you for checking out Latinary. Latinary is a demo application I designed specifically for my developer profile and thus its core functionality is purposely limited.
+        The app showcases thread-safe background data download via web request, data parsing, search functionality, text-to-speech capability, as well as UI customization.
+        Additionally the app is designed to easily be updated to display data from any key/value styled text file with little code change. If you would like to contact me, you can reach out to me on LinkedIn via the button below. </string>
+    <string name="back_out">Press the back button one more time to exit.</string>
+    <string name="linkedin_url">https://www.linkedin.com/in/ruebenanderson/</string>
+</resources>
